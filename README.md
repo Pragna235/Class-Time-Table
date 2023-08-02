@@ -1,2 +1,2 @@
 # Class Time Table
-* Class Time Table using HTML
+* Static Webpage of Class Time Table of PVPSIT using HTML
